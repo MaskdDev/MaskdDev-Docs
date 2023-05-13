@@ -45,20 +45,20 @@ nav:
     - Home: writerstats/index.md
     - List of Commands: writerstats/commands.md
     - Guide:
-      - Welcome to the Guide!: writerstats/guide/welcome.md
+      - Welcome to the Guide!: writerstats/guide/index.md
       - Timezones and Privacy: writerstats/guide/timezones_and_privacy.md
       - Projects: writerstats/guide/projects.md
       - Sessions: writerstats/guide/sessions.md
       - Goals: writerstats/guide/goals.md
       - Statistics: writerstats/guide/statistics.md
     - Terms:
-      - Terms of Service: writerstats/legal/tos.md
+      - Terms of Service: writerstats/legal/index.md
       - Privacy Policy: writerstats/legal/privacy.md
   - Veatrix:
     - Home: veatrix/index.md
     - List of Commands: veatrix/commands.md
     - Terms:
-      - Terms of Service: veatrix/legal/tos.md
+      - Terms of Service: veatrix/legal/index.md
       - Privacy Policy: veatrix/legal/privacy.md
     
   
