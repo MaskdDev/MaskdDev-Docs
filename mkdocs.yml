@@ -41,7 +41,7 @@ extra:
 nav:
   - Home: index.md
   - WriterStats:
-    - Home: writerstats/home.md
+    - Home: writerstats/index.md
     - List of Commands: writerstats/commands.md
     - Guide:
       - Welcome to the Guide!: writerstats/guide/welcome.md
@@ -54,7 +54,7 @@ nav:
       - Terms of Service: writerstats/legal/tos.md
       - Privacy Policy: writerstats/legal/privacy.md
   - Veatrix:
-    - Home: veatrix/home.md
+    - Home: veatrix/index.md
     - List of Commands: veatrix/commands.md
     - Terms:
       - Terms of Service: veatrix/legal/tos.md
