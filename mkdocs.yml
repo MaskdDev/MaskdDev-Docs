@@ -39,7 +39,7 @@ extra:
       link: https://discord.gg/H2C7rem29c/
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - WriterStats:
     - Home: writerstats/home.md
     - List of Commands: writerstats/commands.md
@@ -57,7 +57,7 @@ nav:
     - Home: veatrix/home.md
     - List of Commands: veatrix/commands.md
     - Terms:
-      - Terms of Service: writerstats/legal/tos.md
-      - Privacy Policy: writerstats/legal/privacy.md
+      - Terms of Service: veatrix/legal/tos.md
+      - Privacy Policy: veatrix/legal/privacy.md
     
   

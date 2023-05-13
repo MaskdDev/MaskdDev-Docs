@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Veatrix - The Logging and Moderation Bot
 
 Veatrix is a powerful logging and moderation tool for your servers, accompanied by a host of fun commands for your members! It has a simple, intuitive interface, allowing you to perform all of your actions within the discord app. Free and easy to set up, Veatrix allows you to gain the functionality of popular bots such as MEE6 and Dyno, while maintaining a much more appealing visual interface.

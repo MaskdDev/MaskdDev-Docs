@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # WriterStats - The Discord Bot for Writers
 
 WriterStats is the ultimate bot for writers, allowing for easy monitoring of writing trends and times. The bot allows you to work on multiple projects, keeping track of your writing on a session-by-session basis. Want to stay motivated? Create a group session with the members of your server, competing to write the most within a given time frame!
