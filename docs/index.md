@@ -7,7 +7,7 @@ hide:
 
 # Welcome to the MaskdDev Docs!
 
-This site allows you to view help for our services, as well as our privacy policies and terms of service. Below is an overview of our products. Navigate to the appropriate one in the sidebar, or use the searchbox above to find what you're looking for!
+This site allows you to view help for our services, as well as our privacy policies and terms of service. Below is an overview of our products. Navigate to the appropriate one in the navigation bar, or use the searchbox above to find what you're looking for!
 
 ## [WriterStats](/writerstats/home)
 
