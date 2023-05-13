@@ -1,3 +1,63 @@
-site_name: MaskdDev
+site_name: MaskdDev Docs
+copyright: Copyright &copy; 2023 Adithya Udupa
 theme:
   name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.path
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MaskdDev/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/H2C7rem29c/
+
+nav:
+  - Home: home.md
+  - WriterStats:
+    - Home: writerstats/home.md
+    - List of Commands: writerstats/commands.md
+    - Guide:
+      - Welcome to the Guide!: writerstats/guide/welcome.md
+      - Timezones and Privacy: writerstats/guide/timezones_and_privacy.md
+      - Projects: writerstats/guide/projects.md
+      - Sessions: writerstats/guide/sessions.md
+      - Goals: writerstats/guide/goals.md
+      - Statistics: writerstats/guide/statistics.md
+    - Terms:
+      - Terms of Service: writerstats/legal/tos.md
+      - Privacy Policy: writerstats/legal/privacy.md
+  - Veatrix:
+    - Home: veatrix/home.md
+    - List of Commands: veatrix/commands.md
+    - Terms:
+      - Terms of Service: writerstats/legal/tos.md
+      - Privacy Policy: writerstats/legal/privacy.md
+    
+  
