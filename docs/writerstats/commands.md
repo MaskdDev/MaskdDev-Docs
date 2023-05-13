@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # List of Commands
 
 ## General

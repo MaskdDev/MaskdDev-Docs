@@ -11,6 +11,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.path
+    - navigation.footer
 
   palette:
     # Palette toggle for light mode

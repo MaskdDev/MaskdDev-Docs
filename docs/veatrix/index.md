@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - footer
 ---
 
 # Veatrix - The Logging and Moderation Bot

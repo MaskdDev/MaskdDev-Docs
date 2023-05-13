@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - footer
 ---
 
 # WriterStats - The Discord Bot for Writers
