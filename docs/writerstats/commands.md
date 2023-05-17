@@ -22,7 +22,7 @@ hide:
 ## Projects
 
 `/project new`: Create a new project!  
-`/`project rename`: Rename your active project.
+`/project rename`: Rename your active project.
 `/project setactive`: Set your active project.  
 `/project delete`: Delete a project.  
 `/project setcount`: Set the wordcount for your active project.  
