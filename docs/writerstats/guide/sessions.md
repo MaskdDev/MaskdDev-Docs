@@ -22,6 +22,8 @@ There are several types of sessions that you can begin. The three commands you c
 
 - `start_delay` - Decide how much time until the session starts to give all your writing buddies time to join! This is a minutes value and can be a maximum of 60 minutes. This option is only available for group sessions.
 
+- `end_delay` - Decide how much time participants will have to submit their wordcount after the session ends! This is a minutes value and can be a maximum of 30 minutes. This option is only available for group sessions.
+
 _Note:_ If you wish to start a group session as a spectator, you may use the optional `join_type` option to do so.
 
 ## Joining a group session

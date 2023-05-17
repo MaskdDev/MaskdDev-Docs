@@ -9,3 +9,7 @@ You can have several projects set up in the bot and can switch between them usin
 ## Project Info and Goals
 
 If you want to know what project you're currently working on and view its progress, use `/project info` for its statistics. You can manually update the number of words in your project with /project setcount and add a wordcount goal to your project using `/project setgoal`.
+
+## Renaming and deleting projects
+
+If you wish to rename your current project, use `/project rename` to do so. To delete a project, you can use `/project delete`. This action is irreversible.
