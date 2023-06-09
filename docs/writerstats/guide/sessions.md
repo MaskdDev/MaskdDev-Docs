@@ -32,7 +32,7 @@ The `/session join` command will add you to the list of participants in a sessio
 
 ## Spectating a group session
 
-If you want to join a group session without a writing project, you can use `/session spectate`. You will be notified at the start and the end of the session but will not be able to submit your final stats with `/session complete` at the end of the session.
+If you want to join a group session without the need to submit a wordcount at the end, you can use `/session spectate`. You will be notified at the start and the end of the session but will not be able to submit your final stats with `/session complete` at the end of the session.
 
 ## Finishing a Session
 

@@ -1,6 +1,6 @@
 # WriterStats Guide - Projects
 
-WriterStats works using Projects and Sessions (see the next page), allowing you to work on several different works with the bot. You can create a new project at any time using `/project new`, and you need at least one of them to start using the bot.
+WriterStats works using Projects and Sessions (see the next page), allowing you to work on several different works with the bot. You can create a new project at any time using {clickify("project new")}, which is the recommended way to write with the bot. You can also choose to write without a project, with these sessions counting towards your overall statistics and goals. The rest of this guide will assume you have created a project and have set it as your active project (see below).
 
 ## Setting your active project
 
