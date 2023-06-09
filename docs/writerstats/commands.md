@@ -24,10 +24,17 @@ hide:
 `/project new`: Create a new project!  
 `/project rename`: Rename your active project.  
 `/project setactive`: Set your active project.  
+`/project none`: Remove your active project.  
 `/project delete`: Delete a project.  
 `/project setcount`: Set the wordcount for your active project.  
 `/project setgoal`: Set the wordcount goal for your active project.  
-`/project info`: Get general info for your active project.
+`/project info`: Get general info for your active project.  
+`/project month current`: View your writing statistics for the current month!  
+`/project month last`: View your project writing statistics for last month!  
+`/project month find`: View your project writing statistics for a specific month.  
+`/project week current`: View your project writing statistics for the current week!  
+`/project week last`: View your project writing statistics for last week!  
+`/project week find`: View your project writing statistics for a specific week.
 
 ## Tracking
 
@@ -36,6 +43,9 @@ hide:
 `/session cancel`: Cancel your current individual/group writing session.  
 `/session complete`: Complete your current writing session.  
 `/session manual`: Manually add a writing session to a date.  
+`/session edit`: Edit a previous session.  
+`/session delete`: Delete a past session.  
+`/session view`: View the details of a past session.  
 `/session join`: Join the group writing session in your current channel!  
 `/session spectate`: Join the group writing session in your current channel as a spectator!  
 `/session leave`: Leave your current group session.  
