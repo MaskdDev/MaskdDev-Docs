@@ -44,6 +44,7 @@ nav:
   - WriterStats:
     - Home: writerstats/index.md
     - List of Commands: writerstats/commands.md
+    - Changelog: writerstats/changelog.md
     - Guide:
       - Welcome to the Guide!: writerstats/guide/index.md
       - Timezones and Privacy: writerstats/guide/timezones_and_privacy.md
@@ -54,6 +55,11 @@ nav:
     - Terms:
       - Terms of Service: writerstats/legal/index.md
       - Privacy Policy: writerstats/legal/privacy.md
+    - Changelog:
+      - Major Updates: writerstats/changelog/major.md
+      - Major & Minor Updates: writerstats/changelog/minor.md
+      - All Updates: writerstats/changelog/index.md
+
   - Veatrix:
     - Home: veatrix/index.md
     - List of Commands: veatrix/commands.md
