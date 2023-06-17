@@ -12,6 +12,7 @@
 - /week and /project week now accept the standard date options.
 - Added /discord to get a link to the support server.
 - Added /ping to view the bot's response latency.
+- Updated /support to display the latest patron benefits.
 
 ### Added
 
@@ -28,6 +29,7 @@
 ### Modified
 
 - `/between`
+- `/support`
 
 ## Version 2.4.0
 
