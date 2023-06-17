@@ -30,6 +30,8 @@
 
 - `/between`
 - `/support`
+- `/week find`
+- `/project week find`
 
 ## Patch 2.4.1
 
