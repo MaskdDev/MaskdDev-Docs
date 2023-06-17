@@ -1,5 +1,34 @@
 # WriterStats Changelog - Major & Minor Updates
 
+## Version 2.5.0
+
+- Added /secrets, a patron-only command to view hidden WriterStats features!
+- Added infrastructure to store the server of each session. This is in preparation for future server-related commands.
+- Added /day statistics commands to view statistics for a specified day.
+- Added /project day statistics commands to view statistics for a project for a specified day.
+- Created the "Patrons" category for patron-only commands!
+- /between is no longer project-specific.
+- Modified profile user command to show up as "View Writer Profile" in the apps menu.
+- /week and /project week now accept the standard date options.
+- Added /discord to get a link to the support server.
+- Added /ping to view the bot's response latency.
+
+### Added
+
+- `/secrets`
+- `/day today`
+- `/day yesterday`
+- `/day find`
+- `/project day today`
+- `/project day yesterday`
+- `/project day find`
+- `/discord`
+- `/ping`
+
+### Modified
+
+- `/between`
+
 ## Version 2.4.0
 
 - You can now run sessions without an active project!
