@@ -1,5 +1,14 @@
 # WriterStats Changelog - All Updates
 
+## Patch 2.5.1
+
+- /session group now checks for permissions in specific channel before starting to prevent errors.
+- Custom dynamic status support has been added to show number of servers and number of users in WriterStats' status.
+
+### Modified
+
+- `/session group`
+
 ## Version 2.5.0
 
 - Added /secrets, a patron-only command to view hidden WriterStats features!
