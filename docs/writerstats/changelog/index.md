@@ -4,10 +4,12 @@
 
 - /session group now checks for permissions in specific channel before starting to prevent errors.
 - Custom dynamic status support has been added to show number of servers and number of users in WriterStats' status.
+- Updated update pending message for creating new sessions to include prompt to join support server and to try again later.
 
 ### Modified
 
 - `/session group`
+- `/session individual`
 
 ## Version 2.5.0
 
