@@ -1,5 +1,13 @@
 # WriterStats Changelog - Major & Minor Updates
 
+## Version 2.6.0
+
+- Added /importdata writerbot to import your data from Writer-bot!
+
+### Added
+
+- `/importdata writerbot`
+
 ## Version 2.5.0
 
 - Added /secrets, a patron-only command to view hidden WriterStats features!

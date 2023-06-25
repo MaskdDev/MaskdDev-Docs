@@ -1,5 +1,13 @@
 # WriterStats Changelog - All Updates
 
+## Version 2.6.0
+
+- Added /importdata writerbot to import your data from Writer-bot!
+
+### Added
+
+- `/importdata writerbot`
+
 ## Patch 2.5.1
 
 - /session group now checks for permissions in specific channel before starting to prevent errors.
