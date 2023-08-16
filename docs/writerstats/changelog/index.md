@@ -1,5 +1,20 @@
 # WriterStats Changelog - All Updates
 
+## Version 2.7.0
+
+- Added /choose to allow you to pick between two options. (Early Access)
+- Added /flip and /roll to flip a coin and roll a dice. (Early Access)
+- Added /define to fetch the definition for any English word. (Early Access)
+- Added /generate to help you generate names for your next project! (Early Access)
+
+### Added
+
+- `/choose`
+- `/flip`
+- `/roll`
+- `/define`
+- `/generate`
+
 ## Version 2.6.0
 
 - Added /importdata writerbot to import your data from Writer-bot!
