@@ -2,10 +2,12 @@
 
 ## Version 2.7.0
 
+- Created the Early Access category of commands for early access to features!
 - Added /choose to allow you to pick between two options. (Early Access)
 - Added /flip and /roll to flip a coin and roll a dice. (Early Access)
 - Added /define to fetch the definition for any English word. (Early Access)
 - Added /generate to help you generate names for your next project! (Early Access)
+- Modified the help select placeholder to provide more information.
 
 ### Added
 
@@ -14,6 +16,10 @@
 - `/roll`
 - `/define`
 - `/generate`
+
+### Modified
+
+- `/help`
 
 ## Version 2.6.0
 
