@@ -10,6 +10,8 @@ WriterStats is the ultimate bot for writers, allowing for easy monitoring of wri
 
 WriterStats allows you to set goals and view your writing statistics over different periods of time, allowing you to keep yourself on track and achieve your writing goals!
 
+You can view the WriterStats Guide at our [new site](https://www.writerstats.com/)!
+
 ## How do I use the bot?
 
 You can add the bot to your server using [this link](https://discord.com/api/oauth2/authorize?client_id=1036812361677410377&permissions=415068638272&scope=bot%20applications.commands)! If you want to get into the bot as quickly as possible, use `/quickstart` to view a quick series of steps on creating your first project and starting your first session. If you wish to view a more detailed guide, use `/guide`. You can also view detailed help on each command using `/help`.

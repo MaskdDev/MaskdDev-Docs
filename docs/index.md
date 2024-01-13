@@ -9,7 +9,7 @@ hide:
 
 This site allows you to view help for our services, as well as our privacy policies and terms of service. Below is an overview of our products. Navigate to the appropriate one in the navigation bar, or use the searchbox above to find what you're looking for!
 
-## [WriterStats](/writerstats/)
+## [WriterStats](https://www.writerstats.com/)
 
 WriterStats is the ultimate bot for writers, allowing for easy monitoring of writing trends and times. The bot allows you to work on multiple projects, keeping track of your writing on a session-by-session basis. Want to stay motivated? Create a group session with the members of your server, competing to write the most within a given time frame!
 
