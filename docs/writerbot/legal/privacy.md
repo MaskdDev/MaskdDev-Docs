@@ -1,10 +1,10 @@
 # Privacy Policy
 
-This privacy policy explains how WriterStats collects, uses, and protects your data.
+This privacy policy explains how Writer-Bot collects, uses, and protects your data.
 
 ## What data do we collect?
 
-WriterStats collects and stores data relevant to your writing statistics, such as word count, time spent writing, project details, etc. We also collect data to distinguish you from other users, such as your user ID and the members of your servers to create leaderboards and other statistcs. WriterStats does not collect or store any personal information, such as your name, email address, password, etc.
+Writer-Bot collects and stores data relevant to your writing statistics, such as word count, time spent writing, project details, etc. We also collect data to distinguish you from other users, such as your user ID and the members of your servers to create leaderboards and other statistcs. Writer-Bot does not collect or store any personal information, such as your name, email address, password, etc.
 
 ## How do we use your data?
 
@@ -38,4 +38,4 @@ We may update this policy from time to time to reflect changes in our practices 
 
 ## How do you contact us?
 
-If you have any questions or feedback about WriterStats or this policy, please contact us at support@maskd.dev.
+If you have any questions or feedback about Writer-Bot or this policy, please contact us at support@maskd.dev.

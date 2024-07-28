@@ -55,6 +55,11 @@ nav:
       - Terms of Service: veatrix/legal/index.md
       - Privacy Policy: veatrix/legal/privacy.md
     
+  - Writer-Bot:
+    - Terms:
+      - Terms of Servise: writerbot/legal/index.md
+      - Privacy Policy: writerbot/legal/privacy.md
+    
 plugins:
   - redirects:
       redirect_maps:
