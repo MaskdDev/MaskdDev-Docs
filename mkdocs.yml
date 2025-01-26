@@ -59,6 +59,11 @@ nav:
     - Terms:
       - Terms of Servise: writerbot/legal/index.md
       - Privacy Policy: writerbot/legal/privacy.md
+
+  - The Sprongler:
+    - Terms:
+      - Terms of Servise: sprongler/legal/index.md
+      - Privacy Policy: sprongler/legal/privacy.md
     
 plugins:
   - redirects:
